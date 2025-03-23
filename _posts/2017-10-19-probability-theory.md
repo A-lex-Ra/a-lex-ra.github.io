@@ -3,6 +3,7 @@ layout: post
 title:  "Probability theory"
 date:   2017-10-19 17:00:00 +0300
 tags: Math
+author: vogdb
 ---
 
 **Prerequisites** [Matt glossary]({{ site.baseurl }}{% post_url 2017-09-18-math-glossary %})
