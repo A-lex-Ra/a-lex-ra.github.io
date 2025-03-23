@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-#### {{site.description}} [{{site.github_username}}](https://github.com/A-lex-Ra/a-lex-ra.github.io)
+#### {{site.description}} [repository here](https://github.com/A-lex-Ra/a-lex-ra.github.io)
