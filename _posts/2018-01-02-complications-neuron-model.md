@@ -3,6 +3,7 @@ layout: post
 title:  "Complications of Neuron model"
 date:   2018-01-02 14:00:00 +0300
 tags: ComputationalNeurobiology
+author: vogdb
 ---
 
 Every complication listed below introduces a new dimension of complexity in building of the neuron model that reflects its functionality fully as it is real.
