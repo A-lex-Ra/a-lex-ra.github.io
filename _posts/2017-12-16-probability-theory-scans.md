@@ -3,6 +3,7 @@ layout: post
 title:  "Probability theory slides"
 date:   2017-10-19 17:00:00 +0300
 tags: Math probability-theory
+author: vogdb
 ---
 
 **Prerequisites** [Math glossary]({{ site.baseurl }}{% post_url 2017-09-18-math-glossary %}), [Probability-theory]({{ site.baseurl }}{% post_url 2017-10-19-probability-theory %})
