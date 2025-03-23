@@ -3,6 +3,7 @@ layout: post
 title:  "Function Approximation"
 date:   2017-09-28 20:10:00 +0300
 tags: Math Derivative
+author: vogdb
 ---
 
 **Prerequisites** [Derivative]({{ site.baseurl }}{% post_url 2017-09-14-derivative %})
