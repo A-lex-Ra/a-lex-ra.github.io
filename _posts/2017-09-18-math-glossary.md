@@ -3,6 +3,7 @@ layout: post
 title:  "Math glossary and pronunciation"
 date:   2017-09-18 21:00:00 +0300
 tags: Math
+author: vogdb
 ---
 
 ### General
