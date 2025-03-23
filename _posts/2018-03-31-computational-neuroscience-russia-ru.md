@@ -3,6 +3,7 @@ layout: post
 title:  "Вычислительная Нейробиология/Computational Neuroscience в России"
 date:   2018-03-31 13:46:00 +0300
 tags: ВычислительнаяНейробиология
+author: vogdb
 ---
 
 ## О чем здесь?
