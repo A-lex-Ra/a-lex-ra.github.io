@@ -3,6 +3,7 @@ layout: post
 title:  "Derivative"
 date:   2017-09-14 21:23:00 +0300
 tags: Math Derivative
+author: vogdb
 ---
 
 **Prerequisites** [Limits]({{ site.baseurl }}{% post_url 2017-09-02-limits %})
